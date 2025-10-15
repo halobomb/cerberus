@@ -1,4 +1,4 @@
-# monster
+# monster ![cat](./monster/favicon.ico)
 =:7)~~⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
 ## [PLAY ](https://halobomb.github.io/monster/monster/ "click to play")
 ### requirements:

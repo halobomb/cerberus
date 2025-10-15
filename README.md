@@ -1,8 +1,43 @@
 # monster
 =:7)~~⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+## [PLAY ](https://halobomb.github.io/monster/monster/ "click to play")
+### requirements:
+- `WebGL`
+---
+### controls for pc:
+|red|blue|green|yellow|
+|-|-|-|-|
+|`Z`|`M`|`<-`|`.`<br>*(numpad)*|
 
-JS game
-⠀⠀⠀⠀
+
+# ABOUT
+i forget whats world record, but mine in normal mode maybe ~115?
+
+>in old version i saw about 190 score
+---
+**small updates like:**
+
+- [ ] ~~online~~ *(havent players)*
+- [ ] attack list's control
+- [ ] customize *(skins, more colors)*
+- [x] bots
+- [x] smart bots
+- [ ] smart bots without autism
+- [x] RAT
+- [x] survival mode
+- [ ] ~~leaderboard~~ *(havent players & avaible server)*
+- [x] cross platform *(android, windows, calculator, real life)*
+      
+
+
+
+
+
+
+
+
+
+⠀⠀⠀
 
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⣠⡤⠴⡿⠓⠶⠾⠿⠶⣤⣀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣠⡖⠋⠉⠁⠀⠀⠀⠀⠀⠀⠀⠀⠈⠙⠷⣤⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀

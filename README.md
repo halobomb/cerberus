@@ -5,6 +5,8 @@
 - `WebGL`
 ---
 ### controls for pc:
+- mouse :D
+  
 |red|blue|green|yellow|
 |-|-|-|-|
 |`Z`|`M`|`<-`|`.`<br>*(numpad)*|

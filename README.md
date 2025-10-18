@@ -19,7 +19,7 @@ i forget whats world record, but mine in normal mode maybe ~115?
 ---
 **small updates like:**
 
-- [ ] ~~online~~ *(havent players)*
+- [x] ~~online~~ *(havent players)*
 - [ ] attack list's control
 - [ ] customize *(skins, more colors)*
 - [x] bots

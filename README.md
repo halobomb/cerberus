@@ -13,18 +13,25 @@
 
 
 # ABOUT
-i forget whats world record, but mine in normal mode maybe ~115?
+main menu: monster - survival mode, start button - play with AI, red player - play with irl friends or with second hand
+
+i need a server but its so expensive
+>VDS >$1 per month :(
+
+btw bots updated, i cant beat them...
+
+i forgot whats world record, but mine in normal mode maybe ~115?
 
 >in old version i saw about 190 score
 ---
 **small updates like:**
 
-- [x] ~~online~~ *(havent players)*
+- [x] ~~online~~ *(havent players & avaible server)*
 - [ ] attack list's control
 - [ ] customize *(skins, more colors)*
 - [x] bots
 - [x] smart bots
-- [ ] smart bots without autism
+- [x] smart bots without autism
 - [x] RAT
 - [x] survival mode
 - [ ] ~~leaderboard~~ *(havent players & avaible server)*

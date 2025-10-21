@@ -20,7 +20,7 @@ i need a server but its so expensive
 
 btw bots updated, i cant beat them...
 
-i forgot whats world record, but mine in normal mode maybe ~115?
+i forgot whats world record, but mine in normal mode maybe ~115? survival 77
 
 >in old version i saw about 190 score
 ---

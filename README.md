@@ -1,11 +1,12 @@
-# monster ![cat](./monster/favicon.ico)
+# cerberus ![cat](./game/favicon.ico)
 =:7)~~⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
 ## [PLAY ](https://halobomb.github.io/monster/monster/ "click to play")
 ### requirements:
 - `WebGL`
 ---
 ### controls for pc:
-- mouse :D
+- mouse 🐁
+- keyboard keys below
   
 |red|blue|green|yellow|
 |-|-|-|-|
@@ -13,16 +14,18 @@
 
 
 # ABOUT
-main menu: monster - survival mode, start button - play with AI, red player - play with irl friends or with second hand
+you can play with second hand or with AI 🧀
 
-i need a server but its so expensive
->VDS >$1 per month :(
+
+
+i need a server but its so expensive 🪤
+>VDS >$1 per month =:7)~~
 
 btw bots updated, i cant beat them...
 
-i forgot whats world record, but mine in normal mode maybe ~115? survival 77
+world record above 190 score (in old&hard version)
 
->in old version i saw about 190 score
+>mine is ~115 :(
 ---
 **small updates like:**
 

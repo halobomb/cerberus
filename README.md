@@ -1,6 +1,6 @@
 # cerberus ![cat](./game/favicon.ico)
 =:7)~~⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
-## [PLAY ](https://halobomb.github.io/monster/monster/ "click to play")
+## [PLAY ](https://halobomb.github.io/cerberus/game/ "click to play")
 ### requirements:
 - `WebGL`
 ---

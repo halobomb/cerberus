@@ -1,7 +1,8 @@
 # cerberus ![cat](./game/favicon.ico)
 =:7)~~⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
 
-## [PLAY ](https://halobomb.github.io/cerberus/game/ "click to play")
+## [PLAY NOW (web version)](https://halobomb.github.io/cerberus/game/ "click to play")
+[Download (android)](https://github.com/halobomb/cerberus/releases/tag/v0.2-test/ "yes this RAT STEALER MINER LOGGER")
 ### requirements:
 - `WebGL`
 ---

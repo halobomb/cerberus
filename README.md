@@ -40,6 +40,7 @@ world record above 190 score (in old&hard version)
 - [x] survival mode
 - [ ] ~~leaderboard~~ *(havent players & avaible server)*
 - [x] cross platform *(android, windows, calculator, real life)*
+- [x] AFK Mode for lazy
 
 ---
 fun image btw
